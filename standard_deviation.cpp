@@ -7,7 +7,7 @@
 using namespace std;
 
 int main () {
-  int n, s[100], i;
+  int n, s[1000], i;
   double m, d;
   
   cout.precision(8);
