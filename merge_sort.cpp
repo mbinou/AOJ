@@ -44,7 +44,7 @@ int main () {
   // output
   rep(i,n) {
     cout << A[i];
-    if (i < n) cout << " ";
+    if (i < n-1) cout << " ";
   }
   cout << endl << count << endl;
   return 0;
